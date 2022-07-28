@@ -9,4 +9,4 @@ This script includes self written logistic regression class. Using UCI ML Breast
 
 ## Used Technologies
 1. Programming language: Python
-2. Used libraries: Math, Numpy, Pandas
+2. Used libraries: math, numpy, time, sklearn.datasets, sklearn.model_selection, sklearn.linear_model 
